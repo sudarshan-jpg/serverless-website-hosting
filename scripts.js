@@ -1,5 +1,5 @@
 //add your api here below
-var API_ENDPOINT = "Paste endpoint URL"
+var API_ENDPOINT = "https://xcuqn9qdp4.execute-api.us-east-2.amazonaws.com/Prod"
 //AJAX GET REQUEST
 document.getElementById("saveprofile").onclick = function(){
   var inputData = {
